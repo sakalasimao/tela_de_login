@@ -193,6 +193,7 @@ gap: 10px;
 
 }
 
-.image-login .more-info .social-media .social svg{
-    color: #000;
+.image-login .more-info .social-media .social .social-icon{
+    width: 18px;
+    height: 18px;
 }
